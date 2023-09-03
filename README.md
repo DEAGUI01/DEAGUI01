@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/DEAGUI01">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-aguilar-fuentes/">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b> [Active Directory Home Lab]
+<h2> Web Development Projects</h2>
+
+<h2> Certifications </h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/daniel-aguilar-fuentes/
 
 <!--
-**DEAGUI01/DEAGUI01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
