@@ -1,9 +1,12 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/DEAGUI01">Programmer</a>, <a href="https://www.linkedin.com/in/daniel-aguilar-fuentes/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
 - <b> [Active Directory Home Lab]
+  
 <h2> Web Development Projects</h2>
+
+<h2>👨‍💻 Computer Forensics Labs:</h2>
+- <b> FAT File System Lab
 
 <h2> Certifications </h2>
 
