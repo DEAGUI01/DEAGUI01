@@ -45,6 +45,9 @@
 - <b> BSBA in Computer Information Systems with a track in Information Security
   
 <h2> Certifications </h2>
+- <b> Security+
+  <br />
+  <br />
 - <b> ISC2's Certified in Cybersecurity
   <br />
   <br />
@@ -52,9 +55,6 @@
   <br />
   <br />
 - <b> IT Fundamentals
-  <br />
-  <br />
-- <b> Veeam Technical Sales Professional
 
 
 
